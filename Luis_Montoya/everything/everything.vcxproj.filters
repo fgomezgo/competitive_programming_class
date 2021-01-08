@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="everything.cpp">
+    <ClCompile Include="CodeForces\300A.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
